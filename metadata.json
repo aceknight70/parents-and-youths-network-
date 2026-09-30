@@ -1,0 +1,6 @@
+{
+  "name": "Parents and Youth Network",
+  "description": "Who does what for whom. An interactive map of the Parents and Youth Network with savings, loans, and visibility job simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
